@@ -9,6 +9,8 @@
 #### 🟩 Greedy / DP
 - **Q3:** [Jump Game VI](https://leetcode.com/problems/jump-game-vi/description/)
 
+- **Q4:** [139. Word Break](https://leetcode.com/problems/word-break/description/)
+
 ---
 
 ### 💼 Amazon Interview Rounds
