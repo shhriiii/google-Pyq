@@ -1,3 +1,8 @@
+## GFG (REVSN) 
+
+####RECURSION + TABULATION
+-**Q1:** [SPECIAL KEYBOARD](https://www.geeksforgeeks.org/problems/special-keyboard3018/1)
+
 ## ✅ Leetcode google amazon
 
 ### 📂 Leetcode Questions
